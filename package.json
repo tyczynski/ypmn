@@ -4,7 +4,7 @@
   "description": "CLI which decides to use npm or yarn",
   "main": "src/index.js",
   "bin": {
-    "npmn": "./bin/index.js"
+    "ypmn": "./bin/index.js"
   },
   "repository": {
     "type": "git",
