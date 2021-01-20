@@ -1,0 +1,27 @@
+{
+  "name": "ypmn",
+  "version": "0.1.0-alpha",
+  "description": "CLI which decides to use npm or yarn",
+  "main": "src/index.js",
+  "bin": {
+    "npmn": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyczynski/npmn.git"
+  },
+  "keywords": [
+    "yarn",
+    "npm"
+  ],
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "author": "Przemysław Tyczyński <przemyslaw@tyczynski.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyczynski/ypmn/issues"
+  },
+  "homepage": "https://github.com/tyczynski/ypmn#readme"
+}
