@@ -1,6 +1,6 @@
 {
   "name": "ypmn",
-  "version": "0.1.0-alpha",
+  "version": "0.1.1-alpha",
   "description": "CLI which decides to use npm or yarn",
   "main": "src/index.js",
   "bin": {
