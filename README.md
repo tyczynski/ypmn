@@ -1,4 +1,4 @@
-# ynpn (npm > yarn > ynpn)
+# ynpn (npm > yarn > ypmn)
 
 CLI which decides to use `npm` or `yarn`
 
